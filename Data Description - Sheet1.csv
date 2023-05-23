@@ -1,0 +1,26 @@
+COLUMN_NAME,DESCRIPTION
+Sector_score,Historical risk score value of the target-unit in the Table 1 using analytical procedure.
+LOCATION_ID,Unique ID of the city/province.
+PARA_A,Discrepancy found in the planned expenditure of inspection and summary report A in Rs (in crore).
+Score_A,Score of parameter A according to the summary report
+Risk_A,Risk of paramter being to high
+PARA_B,Discrepancy found in the planned expenditure of inspection and summary report B in Rs (in crore).
+Score_B,Score of parameter B according to the summary report
+Risk_B,Risk of paramter being to high
+TOTAL,Total amount of discrepancy found in other reports Rs (in crore).
+numbers,Historical discrepancy score.
+Money_Value,Amount of money involved in misstatements in the past audits.
+Score_MV,Score of value of money involved in the misstatements
+Risk_D,Risk of value of money in misstatements
+District_Loss,Amount of loss suffered by the firm last year.
+PROB,Probability of district loss
+RiSk_E,Risk of the above probability
+History,Average historical loss suffered by firm in the last 10 years.
+Prob,Probability of historical loss
+Risk_F,Risk of having a historical loss
+Score,Score of the historical loss based in probability
+Inherent_Risk,Inherent Risk (IR) is the risk present due to the discrepancies present in the transactions.
+CONTROL_RISK,"the risk that the internal control arrangements will fail to prevent material deviations, or to detect and correct them on a timely basis"
+Detection_Risk,"the risk that the procedures performed by the auditor will not detect a misstatement that exists and that could be material, individually or in combination with other misstatements."
+Audit_Risk,Total risk score using analytical procedure
+Risk,Risk Class assigned to an audit-case. (Target Feature
